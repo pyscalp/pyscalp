@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300.png/764ba2/FFFFFF?text=Ajat+Sudrajat+-+Product+Architect" alt="Ajat Sudrajat Banner">
+  <img src="https://github.com/pyscalp/pyscalp/blob/main/Gemini_Generated_Image_1lrcx1lrcx1lrcx1.png" alt="Ajat Sudrajat Banner">
 </p>
 
 <h1 align="center">Halo, saya Ajat Sudrajat! 👋</h1>
